@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IntOMICS"]
+	path = IntOMICS
+	url = https://github.com/anna-pacinkova/intomics
+	shallow = true
+	registered = true
