@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "IntOMICS"]
 	path = IntOMICS
-	url = https://github.com/anna-pacinkova/intomics
+	url = https://github.com/anna-pacinkova/intomics_r
